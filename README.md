@@ -1,1 +1,2 @@
 # SQL
+In this project, I utilized SQL to query and organize data from the Chinook database. I performed various tasks including retrieving specific album titles, counting tracks by genre, extracting track details for a specific genre, identifying genres with a high number of tracks, associating employees with customers, and calculating invoice details. These queries demonstrate my ability to effectively manipulate and analyze data using SQL within a relational database context.
